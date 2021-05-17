@@ -1,5 +1,10 @@
 ---
 layout: article
+title:
+
+key: page-about
+---
+layout: article
 title: Page - Single
 
 Hi, I'm Birnur! :wave: :blush:
