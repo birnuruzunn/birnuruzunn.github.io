@@ -28,9 +28,11 @@ key: page-about
 
 # Hi, I'm Birnur! :wave: :blush:
 
-I am a **Computer Engineer** who loves to learn new things, is determined, hardworking and is very keen on technology. I am also a **master's student in Information Systems Engineering**. :mortar_board: :books: :smile:
+I am a **Computer Engineer** who loves to learn new things, is determined, hardworking and is very keen on technology. 
+I am also a **master's student in Information Systems Engineering**. :mortar_board: :books: :smile:
 
-Whenever I have the opportunity, I develop open-source projects and share them here. It is my greatest wish and happiness that my works can be a solution to people's problems.
+Whenever I have the opportunity, I develop open-source projects and share them here. 
+It is my greatest wish and happiness that my works can be a solution to people's problems.
 
 I am currently working on computer networks security and system management.
 
