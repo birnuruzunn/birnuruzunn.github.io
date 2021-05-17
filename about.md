@@ -1,9 +1,8 @@
 ---
 layout: article
-title: Page - Single
+title: about me
 ---
-
-Hi, I'm Birnur! :wave: :blush:
+# Hi, I'm Birnur! :wave: :blush:
 
 I am a **Computer Engineer** who loves to learn new things, is determined, hardworking and is very keen on technology. 
 I am also a **master's student in Information Systems Engineering**. :mortar_board: :books: :smile:
