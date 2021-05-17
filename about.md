@@ -1,6 +1,6 @@
 ---
 layout: article
-titles:
+title:
   # @start locale config
   en      : &EN       About
   en-GB   : *EN
@@ -25,6 +25,9 @@ titles:
   # @end locale config
 key: page-about
 ---
+layout: article
+title: Page - Single
+
 Hi, I'm Birnur! :wave: :blush:
 
 I am a **Computer Engineer** who loves to learn new things, is determined, hardworking and is very keen on technology. 
@@ -44,3 +47,5 @@ I am currently working on computer networks security and system management.
 
 * [birnuruzunn@gmail.com](mailto:birnuruzunn@gmail.com) :envelope: 
 * [telegram](https://telegram.me/birnur_zn)
+
+---
